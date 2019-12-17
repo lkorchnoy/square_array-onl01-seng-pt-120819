@@ -18,11 +18,3 @@ my_arr = [1, 2]
 p square_array(my_arr) #=> [1, 4]
 
 
-def square_array(numbers)
-  numbers = [1, 2, 3]
-  new_numbers = []
-  numbers.each { |i| new_numbers << i ** 2 }
-  new_numbers
-end
-
-square_array
