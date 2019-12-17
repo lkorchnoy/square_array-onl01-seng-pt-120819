@@ -6,3 +6,5 @@ end
 
 new_array = [1, 2, 3]
 p square_array(new_array) 
+
+
