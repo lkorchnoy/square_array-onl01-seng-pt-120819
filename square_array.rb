@@ -25,3 +25,5 @@ def square_array(numbers)
 end
 numbers = [1, 2, 3]
 p square_array(numbers)
+
+
