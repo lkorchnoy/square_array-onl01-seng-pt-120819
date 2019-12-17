@@ -25,4 +25,4 @@ def square_array(numbers)
   new_numbers
 end
 
-square_array(new_numbers)
+p square_array(new_numbers)
